@@ -4,7 +4,7 @@ A PHP Class for loading `JavaScript` and `CSS` documents from the Google Content
 
 ## Why?
 
-This class can be useful when requesting multiple libraries from Google's Content Delivery Network. You just need to specify which library (and what version) you want to use.
+This class is useful when requesting multiple libraries from Google's Content Delivery Network. You just need to specify which library (and what version) you want to use.
 
 - Easy-to-use
 - Supports all Google Hosted Libraries
